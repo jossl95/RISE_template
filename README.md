@@ -23,5 +23,9 @@ A working example would be
      "/Users/MacbookJos/OneDrive - Universiteit Utrecht/Documents/_Library/Templates/rise-presentation/slides.pdf"
 ```
 
+## Example
+
+![](./img/screen_shot.png)
+
 ## TO DO
 * ensure that css styles are executed automatically after presentation.ipynb is made
